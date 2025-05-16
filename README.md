@@ -38,13 +38,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrey68Vyazovov&theme=github-dark&hide_border=true&area=true" width="100%">
 </div>
 
-<div align="center">
-  
-  ![Основная статистика](https://github-readme-stats.vercel.app/api?username=Andrey68Vyazovov&show_icons=true&theme=dark&include_all_commits=true)
-  
+<div align="center">    
   ![Стрики](https://streak-stats.demolab.com?user=Andrey68Vyazovov&theme=dark&hide_border=true)
-  
-  ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey68Vyazovov&layout=compact&theme=dark)
   
   ![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Andrey68Vyazovov&theme=github-dark)
   
