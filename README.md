@@ -24,7 +24,7 @@
 </div>
 
 <h2>Мои соцсети</h2>
-<a href="https://t.me/vavrao" target="_blank">
+<a href="https://t.me/vavrao68" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
 
