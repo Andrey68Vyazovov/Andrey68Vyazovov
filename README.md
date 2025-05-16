@@ -23,6 +23,9 @@
        <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </div>
 
+<h2>Мои соцсети</h2>
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/vavrao)
+
 <!--
 **Andrey68Vyazovov/Andrey68Vyazovov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
