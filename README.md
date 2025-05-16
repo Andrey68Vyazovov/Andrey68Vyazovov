@@ -24,7 +24,9 @@
 </div>
 
 <h2>Мои соцсети</h2>
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/vavrao)
+<a href="https://t.me/vavrao" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
 
 <!--
 **Andrey68Vyazovov/Andrey68Vyazovov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
