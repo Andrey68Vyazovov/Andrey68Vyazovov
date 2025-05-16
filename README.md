@@ -39,10 +39,6 @@
 </div>
 
 <div align="center">    
-  ![Стрики](https://streak-stats.demolab.com?user=Andrey68Vyazovov&theme=dark&hide_border=true)
-  
-  ![Активность](https://github-readme-activity-graph.vercel.app/graph?username=Andrey68Vyazovov&theme=github-dark)
-  
   ![Трофеи](https://github-profile-trophy.vercel.app/?username=Andrey68Vyazovov&theme=onedark&row=1)
   
 </div>
