@@ -18,7 +18,7 @@
         <div style="margin-top: 2rem;">
           <h3 style="color: #58a6ff; border-bottom: 2px solid #30363d; padding-bottom: 5px; display: inline-block;">🔗 Соцсети</h3>
           <p style="margin-top: 0.5rem;">
-            <a href="https://tambov.hh.ru/vacancy/120553128?hhtmFromLabel=suitable_vacancies&hhtmFrom=negotiation_list" target="_blank">
+            <a href="https://tambov.hh.ru/resume/b4d9a23bff0ed46dcb0039ed1f4c425366416f" target="_blank">
               <img src="https://img.shields.io/badge/HH.ru-FF6600.svg?style=for-the-badge&logo=hh&logoColor=white" alt="HH.ru"/>
             </a>
             <a href="https://t.me/vavrao68" target="_blank">
