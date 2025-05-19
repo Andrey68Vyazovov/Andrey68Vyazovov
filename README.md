@@ -18,8 +18,12 @@
         <div style="margin-top: 2rem;">
           <h3 style="color: #58a6ff; border-bottom: 2px solid #30363d; padding-bottom: 5px; display: inline-block;">🔗 Соцсети</h3>
           <p style="margin-top: 0.5rem;">
-            <a href="https://tambov.hh.ru/vacancy/120553128?hhtmFromLabel=suitable_vacancies&hhtmFrom=negotiation_list" target="_blank" style="color: #58a6ff; text-decoration: none; margin-right: 1rem;">HH.ru</a>
-            <a href="https://t.me/vavrao68" target="_blank" style="color: #58a6ff; text-decoration: none;">Telegram @vavrao68</a>
+            <a href="https://tambov.hh.ru/vacancy/120553128?hhtmFromLabel=suitable_vacancies&hhtmFrom=negotiation_list" target="_blank">
+              <img src="https://img.shields.io/badge/HH.ru-FF6600.svg?style=for-the-badge&logo=hh&logoColor=white" alt="HH.ru"/>
+            </a>
+            <a href="https://t.me/vavrao68" target="_blank">
+              <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+            </a>
           </p>
         </div>
     </div>
