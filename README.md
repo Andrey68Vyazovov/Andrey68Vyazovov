@@ -1,4 +1,7 @@
 <div align="center">
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+        <img src="images/profile_github.gif" alt="Coding animation" width="100%" style="border-radius: 10px; border: 2px solid #30363d;" />
+    </div>
   <h1 style="border-bottom: 3px solid #58a6ff; display: inline-block; padding-bottom: 10px;">
     Всем привет 🤞
   </h1>
@@ -19,9 +22,6 @@
             <a href="https://t.me/vavrao68" target="_blank" style="color: #58a6ff; text-decoration: none;">Telegram @vavrao68</a>
           </p>
         </div>
-    </div>
-    <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="images/profile_github.gif" alt="Coding animation" width="200" style="border-radius: 10px; border: 2px solid #30363d;" />
     </div>
 </div>
 
