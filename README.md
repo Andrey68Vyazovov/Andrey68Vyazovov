@@ -10,7 +10,7 @@
 <div id="header-block" style="display: flex; align-items: center; justify-content: space-between; background: #0d1117; padding: 2rem; border-radius: 15px; margin: 2rem 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <div style="flex: 1;">
         <p style="font-size: 1.1rem; line-height: 1.6; color: #c9d1d9;">
-          Меня зовут Андрей,я фронтенд-разработчик с passion для создания интуитивных и отзывчивых интерфейсов. Люблю работать с React/Next.js, оптимизировать производительность и воплощать дизайны в жизнь.
+          Меня зовут Андрей, я фронтенд-разработчик с <span style="font-family: monospace; font-weight: bold; color: #58a6ff;">passion</span> для создания интуитивных и отзывчивых интерфейсов. Люблю работать с <span style="font-family: monospace; font-weight: bold; color: #58a6ff;">React/Next.js</span>, оптимизировать производительность и воплощать дизайны в жизнь.
         </p>
         <p style="font-size: 1.1rem; line-height: 1.6; color: #c9d1d9; margin-top: 1rem;">
           🔮 Из бывшего ревизора в IT-энтузиаста: однажды осознал, что хочу создавать цифровые миры, а не только проверять отчеты.
@@ -18,10 +18,10 @@
         <div style="margin-top: 2rem;">
           <h3 style="color: #58a6ff; border-bottom: 2px solid #30363d; padding-bottom: 5px; display: inline-block;">🔗 Соцсети</h3>
           <p style="margin-top: 0.5rem;">
-            <a href="https://tambov.hh.ru/resume/b4d9a23bff0ed46dcb0039ed1f4c425366416f" target="_blank">
+            <a href="https://tambov.hh.ru/resume/b4d9a23bff0ed46dcb0039ed1f4c425366416f" target="_blank" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/HH.ru-FF6600.svg?style=for-the-badge&logo=hh&logoColor=white" alt="HH.ru"/>
             </a>
-            <a href="https://t.me/vavrao68" target="_blank">
+            <a href="https://t.me/vavrao68" target="_blank" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
             </a>
           </p>
