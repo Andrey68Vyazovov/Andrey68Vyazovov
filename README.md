@@ -1,7 +1,7 @@
 <div align="center">
-    <div style="width: 100%; height: 400px; overflow: hidden;">
-        <img src="images/profile_github.gif" alt="Coding animation" style="width: 100%; height: 100%; object-fit: cover; object-position: bottom;" />
-    </div>
+  <div style="position: relative; width: 100%; height: 200px; overflow: hidden; margin-bottom: 2rem;">
+    <img src="images/profile_github.gif" alt="Coding animation" style="width: 100%; position: absolute; top: -50%;" />
+  </div>
   <h1 style="border-bottom: 3px solid #58a6ff; display: inline-block; padding-bottom: 10px;">
     Всем привет 🤞
   </h1>
