@@ -11,8 +11,7 @@
         </p>
         <p style="font-size: 1.1rem; line-height: 1.6; color: #c9d1d9; margin-top: 1rem;">
           🔮 Из бывшего ревизора в IT-энтузиаста: однажды осознал, что хочу создавать цифровые миры, а не только проверять отчеты.
-        </p>
-        
+        </p>        
         <div style="margin-top: 2rem;">
           <h3 style="color: #58a6ff; border-bottom: 2px solid #30363d; padding-bottom: 5px; display: inline-block;">🔗 Соцсети</h3>
           <p style="margin-top: 0.5rem;">
@@ -40,7 +39,6 @@
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     </div>
-    
     <h3 style="color: #c9d1d9;">Backend & Tools</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
       <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -48,7 +46,6 @@
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </div>
-    
     <h3 style="color: #c9d1d9;">Инструменты</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
       <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>  
