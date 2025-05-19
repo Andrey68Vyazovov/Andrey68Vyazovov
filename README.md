@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <div style="position: relative; width: 100%; height: 200px; overflow: hidden; margin-bottom: 2rem;">
     <img src="images/profile_github.gif" alt="Coding animation" style="width: 100%; position: absolute; top: -50%;" />
   </div>
@@ -10,7 +10,7 @@
 <div id="header-block" style="display: flex; align-items: center; justify-content: space-between; background: #0d1117; padding: 2rem; border-radius: 15px; margin: 2rem 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <div style="flex: 1;">
         <p style="font-size: 1.1rem; line-height: 1.6; color: #c9d1d9;">
-          Привет! Я Андрей, фронтенд-разработчик с passion для создания интуитивных и отзывчивых интерфейсов. Люблю работать с React/Next.js, оптимизировать производительность и воплощать дизайны в жизнь.
+          Меня зовут Андрей,я фронтенд-разработчик с passion для создания интуитивных и отзывчивых интерфейсов. Люблю работать с React/Next.js, оптимизировать производительность и воплощать дизайны в жизнь.
         </p>
         <p style="font-size: 1.1rem; line-height: 1.6; color: #c9d1d9; margin-top: 1rem;">
           🔮 Из бывшего ревизора в IT-энтузиаста: однажды осознал, что хочу создавать цифровые миры, а не только проверять отчеты.
