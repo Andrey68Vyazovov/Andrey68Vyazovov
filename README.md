@@ -1,6 +1,6 @@
 <div align="center">
-    <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="images/profile_github.gif" alt="Coding animation" width="100%" style="border-radius: 10px; border: 2px solid #30363d;" />
+    <div style="width: 100%; height: 400px; overflow: hidden;">
+        <img src="images/profile_github.gif" alt="Coding animation" style="width: 100%; height: 100%; object-fit: cover; object-position: bottom;" />
     </div>
   <h1 style="border-bottom: 3px solid #58a6ff; display: inline-block; padding-bottom: 10px;">
     Всем привет 🤞
